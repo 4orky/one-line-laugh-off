@@ -1,8 +1,8 @@
 # One-Line Laugh-Off
 
-[![bounty](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae/badge/bounty)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae)
-[![rank](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae/badge/rank)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae)
-[![reward](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae/badge/reward)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae)
+[![make.fun · u-zkhiel-one-line-laugh-off-714618ae](https://make.fun/badge/u-zkhiel-one-line-laugh-off-714618ae.svg)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae?utm_source=github&utm_medium=readme&utm_campaign=u-zkhiel-one-line-laugh-off-714618ae)
+[![rank](https://make.fun/badge/u-zkhiel-one-line-laugh-off-714618ae/4orky/one-line-laugh-off/rank.svg)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-zkhiel-one-line-laugh-off-714618ae)
+[![reward](https://make.fun/badge/u-zkhiel-one-line-laugh-off-714618ae/4orky/one-line-laugh-off/reward.svg)](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae?utm_source=github&utm_medium=readme&utm_campaign=u-zkhiel-one-line-laugh-off-714618ae)
 
 Entry for the [One-Line Laugh-Off](https://make.fun/bounty/u-zkhiel-one-line-laugh-off-714618ae) bounty on make.fun — exactly one funny line, no setup notes, no explanation.
 
